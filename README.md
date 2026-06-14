@@ -92,6 +92,6 @@ This task provided practical experience with multi-table operations in SQL. It i
 
 ## 👩‍💻 Submitted By
 
-**Padmaja Patil**
+**Padmaja Chougule**
 
 **Internship Task 3 – Multi-Table Operations & Joins**#
